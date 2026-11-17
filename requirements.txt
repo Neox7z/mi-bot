@@ -1,0 +1,7 @@
+python-telegram-bot>=21.6
+yt-dlp
+google-genai
+python-docx
+openpyxl
+reportlab
+requests
